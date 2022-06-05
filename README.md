@@ -1,10 +1,6 @@
 ### Hi there 👋 I am Pallavi singh
 
-<!--
-**pallavieee/pallavieee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+## About
 - 🔭 I’m currently working on chat app project using flutter and dart
 - 🌱 I’m currently learning flutter and frontend web development
 - 💬 Ask me about DSA, Flutter, Dart, HTML, CSS
